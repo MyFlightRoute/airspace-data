@@ -1,0 +1,83 @@
+{
+  "cycle": "2606",
+  "effective_date": "2026-06-11",
+  "opened": [
+    {
+      "airport_id": "WA03",
+      "airport_name": "ROCHE HARBOR",
+      "city": "ROCHE HARBOR",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    }
+  ],
+  "closed": [
+    {
+      "airport_id": "04MT",
+      "airport_name": "PLUHAR",
+      "city": "COHAGEN",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    },
+    {
+      "airport_id": "NV61",
+      "airport_name": "GILBERT DEVELOPMENT CORP",
+      "city": "LAS VEGAS",
+      "state_code": "NV",
+      "state_name": "NEVADA"
+    },
+    {
+      "airport_id": "NV17",
+      "airport_name": "YOUNGBERG RANCH",
+      "city": "LEMMON VALLEY",
+      "state_code": "NV",
+      "state_name": "NEVADA"
+    },
+    {
+      "airport_id": "4OR1",
+      "airport_name": "BRYANT",
+      "city": "MADRAS",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    },
+    {
+      "airport_id": "W39",
+      "airport_name": "ROCHE HARBOR",
+      "city": "ROCHE HARBOR",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    },
+    {
+      "airport_id": "WN93",
+      "airport_name": "PARK 90",
+      "city": "SEATTLE",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    }
+  ],
+  "renamed": [
+    {
+      "airport_id": "O08",
+      "old_name": "COLUSA COUNTY",
+      "new_name": "SIDNEY PICKELS FLD",
+      "city": "COLUSA",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "8U8",
+      "old_name": "BROADWATER COUNTY",
+      "new_name": "TOWNSEND",
+      "city": "TOWNSEND",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    },
+    {
+      "airport_id": "RDM",
+      "old_name": "ROBERTS FLD",
+      "new_name": "ROBERTS FLD REDMOND MUNI",
+      "city": "REDMOND",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    }
+  ]
+}

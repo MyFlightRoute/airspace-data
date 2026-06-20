@@ -1,0 +1,121 @@
+{
+  "cycle": "2607",
+  "effective_date": "2026-07-11",
+  "opened": [
+    {
+      "airport_id": "1AZ4",
+      "airport_name": "HH FLORENCE",
+      "city": "FLORENCE",
+      "state_code": "AZ",
+      "state_name": "ARIZONA"
+    },
+    {
+      "airport_id": "1AZ2",
+      "airport_name": "KIRKLAND VALLEY",
+      "city": "KIRKLAND",
+      "state_code": "AZ",
+      "state_name": "ARIZONA"
+    },
+    {
+      "airport_id": "RYA",
+      "airport_name": "WRAY MUNI",
+      "city": "WRAY",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "79WY",
+      "airport_name": "RED BLUFF MEDICAL CENTER",
+      "city": "HULETT",
+      "state_code": "WY",
+      "state_name": "WYOMING"
+    },
+    {
+      "airport_id": "WY41",
+      "airport_name": "5 SPRINGS",
+      "city": "LOVELL",
+      "state_code": "WY",
+      "state_name": "WYOMING"
+    },
+    {
+      "airport_id": "WY36",
+      "airport_name": "BAKERS FLD",
+      "city": "POWELL",
+      "state_code": "WY",
+      "state_name": "WYOMING"
+    }
+  ],
+  "closed": [
+    {
+      "airport_id": "31AZ",
+      "airport_name": "BENSON",
+      "city": "BENSON",
+      "state_code": "AZ",
+      "state_name": "ARIZONA"
+    },
+    {
+      "airport_id": "2V5",
+      "airport_name": "WRAY MUNI",
+      "city": "WRAY",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "WA19",
+      "airport_name": "BERKLEY STRUCTURES",
+      "city": "REDMOND",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    }
+  ],
+  "renamed": [
+    {
+      "airport_id": "AZ73",
+      "old_name": "TEMPE ST LUKES HOSPITAL",
+      "new_name": "HONORHEALTH TEMPE MEDICAL CENTER",
+      "city": "TEMPE",
+      "state_code": "AZ",
+      "state_name": "ARIZONA"
+    },
+    {
+      "airport_id": "1Q1",
+      "old_name": "ECKERT FLD",
+      "new_name": "KINGTECH FLD",
+      "city": "STRATHMORE",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "ID89",
+      "old_name": "LINDBERG PRIVATE",
+      "new_name": "BIG FLAT",
+      "city": "CARMEN",
+      "state_code": "ID",
+      "state_name": "IDAHO"
+    },
+    {
+      "airport_id": "17MT",
+      "old_name": "ABEL RANCH",
+      "new_name": "LAKESHORE HERITAGE AIRPARK",
+      "city": "KALISPELL",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    },
+    {
+      "airport_id": "RDM",
+      "old_name": "ROBERTS FLD REDMOND MUNI",
+      "new_name": "ROBERTS FLD/REDMOND MUNI",
+      "city": "REDMOND",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    },
+    {
+      "airport_id": "WY58",
+      "old_name": "HILTY PRIVATE STRIP",
+      "new_name": "HILTY FLD",
+      "city": "WHEATLAND",
+      "state_code": "WY",
+      "state_name": "WYOMING"
+    }
+  ]
+}

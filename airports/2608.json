@@ -1,0 +1,61 @@
+{
+  "cycle": "2608",
+  "effective_date": "2026-08-06",
+  "opened": [
+    {
+      "airport_id": "5AZ1",
+      "airport_name": "GRAND CANYON WESTERN RANCH",
+      "city": "MEADVIEW",
+      "state_code": "AZ",
+      "state_name": "ARIZONA"
+    },
+    {
+      "airport_id": "CO30",
+      "airport_name": "ADVENTHEALTH AURORA HIGHLANDS",
+      "city": "AURORA",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "5J2",
+      "airport_name": "SILTCOOS LAKE",
+      "city": "DUNES CITY",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    },
+    {
+      "airport_id": "UT26",
+      "airport_name": "BRYCE WOODLAND ESTATES LANDING STRIP",
+      "city": "HATCH",
+      "state_code": "UT",
+      "state_name": "UTAH"
+    }
+  ],
+  "closed": [
+    {
+      "airport_id": "21H",
+      "airport_name": "SKYLINE",
+      "city": "ANACORTES",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    }
+  ],
+  "renamed": [
+    {
+      "airport_id": "1S6",
+      "old_name": "PRIEST RIVER MUNI",
+      "new_name": "PRIEST RIVER",
+      "city": "PRIEST RIVER",
+      "state_code": "ID",
+      "state_name": "IDAHO"
+    },
+    {
+      "airport_id": "7WA7",
+      "old_name": "KAUTZ CREEK HELIBASE",
+      "new_name": "KAUTZ HELIBASE",
+      "city": "ASHFORD",
+      "state_code": "WA",
+      "state_name": "WASHINGTON"
+    }
+  ]
+}

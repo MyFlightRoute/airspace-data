@@ -1,0 +1,9229 @@
+{
+  "cycle": "2609",
+  "effective_date": "2026-09-03",
+  "added": [
+    {
+      "designator": "ONTQ19",
+      "origin_id": "AJO",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ42",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ43",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ44",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ48",
+      "origin_id": "AVX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ58",
+      "origin_id": "AVX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ53",
+      "origin_id": "AVX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ48",
+      "origin_id": "AVX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ51",
+      "origin_id": "AVX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ52",
+      "origin_id": "AVX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ53",
+      "origin_id": "AVX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ53",
+      "origin_id": "AVX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ58",
+      "origin_id": "AVX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ53",
+      "origin_id": "AVX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ58",
+      "origin_id": "AVX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ48",
+      "origin_id": "AVX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ55",
+      "origin_id": "AVX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ57",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ59",
+      "origin_id": "AVX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ49",
+      "origin_id": "AVX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ54",
+      "origin_id": "AVX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ56",
+      "origin_id": "AVX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ60",
+      "origin_id": "AVX",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ61",
+      "origin_id": "AVX",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ45",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ46",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ47",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ45",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ46",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ47",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ16",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ17",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ18",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ7",
+      "origin_id": "BUR",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "BUR",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ14",
+      "origin_id": "BUR",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ15",
+      "origin_id": "BUR",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ1",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ2",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ3",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ10",
+      "origin_id": "BUR",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ11",
+      "origin_id": "BUR",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ4",
+      "origin_id": "BUR",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ5",
+      "origin_id": "BUR",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ24",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ25",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "BUR",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "BUR",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ35",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ37",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36A",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ32",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ33",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ34",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ39",
+      "origin_id": "BUR",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "BUR",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "BUR",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ6",
+      "origin_id": "BUR",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURQ20",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ23",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "CCB",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "CNO",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "EMT",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "F70",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ1",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ2",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "FUL",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "FUL",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ16",
+      "origin_id": "FUL",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ6",
+      "origin_id": "FUL",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTQ14",
+      "origin_id": "FUL",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ7",
+      "origin_id": "FUL",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ8",
+      "origin_id": "FUL",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "FUL",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ18",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ35",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ40",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ20",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ37",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ41",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ21",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ22",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ23",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ28",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "FUL",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ9",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ10",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ11",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "HMT",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "L65",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXQ3",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXQ18",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXQ33",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXQ54",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXQ1",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXQ16",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXQ31",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXQ52",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXQ5",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXQ20",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXQ35",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXQ56",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXQ14",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXQ29",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXQ48",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXQ49",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXQ68",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXQ10",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ25",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ40",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ41",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ61",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ62",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXQ5",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXQ20",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXQ35",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXQ56",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXQ9",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXQ39",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXQ60",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXQ4",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXQ19",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXQ34",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXQ55",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXQ7",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXQ37",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXQ58",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXQ4",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXQ19",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXQ34",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXQ55",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXQ10",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ25",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ40",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ41",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ61",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ62",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXQ10",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ25",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ40",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ41",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ61",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ62",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXQ14",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXQ29",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXQ48",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXQ49",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXQ68",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXQ10",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ25",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ40",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ41",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ61",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ62",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXQ14",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXQ29",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXQ48",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXQ49",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXQ68",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXQ5",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXQ20",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXQ35",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXQ56",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXQ12",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ27",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ46",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ47",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ65",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ66",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXQ13",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ28",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ44",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ45",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ67",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXQ15",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ30",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ50",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ51",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ69",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ70",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXQ6",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXQ21",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXQ36",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXQ57",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXQ11",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ26",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ42",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ43",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ63",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ64",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXQ4",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXQ19",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXQ34",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXQ55",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXQ4",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXQ19",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXQ34",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXQ55",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXQ4",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXQ19",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXQ34",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXQ55",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXQ2",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXQ17",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXQ32",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXQ53",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXQ2",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXQ17",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXQ32",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXQ53",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ1",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ2",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "LGB",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ27",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "LGB",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ16",
+      "origin_id": "LGB",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ6",
+      "origin_id": "LGB",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTQ14",
+      "origin_id": "LGB",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ7",
+      "origin_id": "LGB",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ8",
+      "origin_id": "LGB",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ27",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ27",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "LGB",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ18",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ35",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ40",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ20",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ37",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ41",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ26",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ21",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ22",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ23",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "LGB",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ9",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ10",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ11",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "ONT",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "POC",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "RAL",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "REI",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "RIR",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "RIV",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "ONTQ19",
+      "origin_id": "SBD",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ1",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ2",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SLI",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SLI",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ16",
+      "origin_id": "SLI",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ6",
+      "origin_id": "SLI",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTQ14",
+      "origin_id": "SLI",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ7",
+      "origin_id": "SLI",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ8",
+      "origin_id": "SLI",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SLI",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ18",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ35",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ40",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ20",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ37",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ41",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ21",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ22",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ23",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ28",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SLI",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ9",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ10",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ11",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ1",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ2",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SNA",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ30",
+      "origin_id": "SNA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SNA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SNA",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ16",
+      "origin_id": "SNA",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ6",
+      "origin_id": "SNA",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTQ14",
+      "origin_id": "SNA",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ7",
+      "origin_id": "SNA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ8",
+      "origin_id": "SNA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SNA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ30",
+      "origin_id": "SNA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SNA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ30",
+      "origin_id": "SNA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "SNA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ30",
+      "origin_id": "SNA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "SNA",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ32",
+      "origin_id": "SNA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ18",
+      "origin_id": "SNA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ33",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ20",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ21",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ22",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ23",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ28",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "SNA",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "SNA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ31",
+      "origin_id": "SNA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ9",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ10",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ11",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTQ1",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ2",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "TOA",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "TOA",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTQ16",
+      "origin_id": "TOA",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTQ6",
+      "origin_id": "TOA",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTQ14",
+      "origin_id": "TOA",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTQ7",
+      "origin_id": "TOA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ8",
+      "origin_id": "TOA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTQ17",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ34",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ38",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTQ24",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ25",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29B",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ29A",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTQ12",
+      "origin_id": "TOA",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTQ18",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ35",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ40",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ20",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ37",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ41",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTQ21",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ22",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ23",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ28",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTQ13",
+      "origin_id": "TOA",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTQ19",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ36",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ39",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTQ9",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ10",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ11",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTQ5",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ3",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTQ4",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ16",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ17",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ18",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ7",
+      "origin_id": "VNY",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "VNY",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ14",
+      "origin_id": "VNY",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ15",
+      "origin_id": "VNY",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ1",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ2",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ3",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ10",
+      "origin_id": "VNY",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ11",
+      "origin_id": "VNY",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ4",
+      "origin_id": "VNY",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ5",
+      "origin_id": "VNY",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ24",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ25",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "VNY",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "VNY",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ35",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ37",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36A",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ32",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ33",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ34",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ39",
+      "origin_id": "VNY",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "VNY",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "VNY",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ6",
+      "origin_id": "VNY",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ20",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ23",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURQ16",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ17",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ18",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURQ7",
+      "origin_id": "WHP",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "WHP",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURQ14",
+      "origin_id": "WHP",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ15",
+      "origin_id": "WHP",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURQ1",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ2",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ3",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURQ10",
+      "origin_id": "WHP",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ11",
+      "origin_id": "WHP",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURQ4",
+      "origin_id": "WHP",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ5",
+      "origin_id": "WHP",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ24",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ25",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "WHP",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURQ26",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ27",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ28",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURQ38",
+      "origin_id": "WHP",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURQ35",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ37",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ36A",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ32",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ33",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ34",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURQ39",
+      "origin_id": "WHP",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURQ8",
+      "origin_id": "WHP",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ9",
+      "origin_id": "WHP",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURQ29",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30B",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ31",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ30A",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURQ6",
+      "origin_id": "WHP",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ20",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ23",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURQ22",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ19",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURQ21",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    }
+  ],
+  "removed": [
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP42",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP43",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP44",
+      "origin_id": "AVX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP48",
+      "origin_id": "AVX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP58",
+      "origin_id": "AVX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP53",
+      "origin_id": "AVX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP48",
+      "origin_id": "AVX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP51",
+      "origin_id": "AVX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP52",
+      "origin_id": "AVX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP53",
+      "origin_id": "AVX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP53",
+      "origin_id": "AVX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP58",
+      "origin_id": "AVX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP53",
+      "origin_id": "AVX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP58",
+      "origin_id": "AVX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP48",
+      "origin_id": "AVX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP55",
+      "origin_id": "AVX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP57",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP59",
+      "origin_id": "AVX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP49",
+      "origin_id": "AVX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP54",
+      "origin_id": "AVX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP56",
+      "origin_id": "AVX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP60",
+      "origin_id": "AVX",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP61",
+      "origin_id": "AVX",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP48",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP45",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP46",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP47",
+      "origin_id": "AVX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP45",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP46",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP47",
+      "origin_id": "AVX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP16",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP17",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP18",
+      "origin_id": "BUR",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP7",
+      "origin_id": "BUR",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "BUR",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "BUR",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP14",
+      "origin_id": "BUR",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP15",
+      "origin_id": "BUR",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "BUR",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP1",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP2",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP3",
+      "origin_id": "BUR",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP10",
+      "origin_id": "BUR",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP11",
+      "origin_id": "BUR",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP4",
+      "origin_id": "BUR",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP5",
+      "origin_id": "BUR",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP24",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP25",
+      "origin_id": "BUR",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "BUR",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "BUR",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "BUR",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "BUR",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "BUR",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP35",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP36",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP37",
+      "origin_id": "BUR",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP32",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP33",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP34",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP39",
+      "origin_id": "BUR",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "BUR",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "BUR",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "BUR",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "BUR",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP6",
+      "origin_id": "BUR",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURP20",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP23",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "BUR",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "BUR",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP1",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP2",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "FUL",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "FUL",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "FUL",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "FUL",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "FUL",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP16",
+      "origin_id": "FUL",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP6",
+      "origin_id": "FUL",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTP14",
+      "origin_id": "FUL",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP7",
+      "origin_id": "FUL",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP8",
+      "origin_id": "FUL",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "FUL",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "FUL",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "FUL",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "FUL",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "FUL",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "FUL",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP18",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP35",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP40",
+      "origin_id": "FUL",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP20",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP37",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP41",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP21",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP22",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP23",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP28",
+      "origin_id": "FUL",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "FUL",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "FUL",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP9",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP10",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP11",
+      "origin_id": "FUL",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "FUL",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "FUL",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "LAXP3",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXP18",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXP33",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXP54",
+      "origin_id": "LAX",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "LAXP1",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXP16",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXP31",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXP52",
+      "origin_id": "LAX",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "LAXP5",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXP20",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXP35",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXP56",
+      "origin_id": "LAX",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "LAXP14",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXP29",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXP48",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXP49",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXP68",
+      "origin_id": "LAX",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "LAXP10",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP25",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP40",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP41",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP61",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP62",
+      "origin_id": "LAX",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "LAXP5",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXP20",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXP35",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXP56",
+      "origin_id": "LAX",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "LAXP9",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXP39",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXP60",
+      "origin_id": "LAX",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "LAXP4",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXP19",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXP34",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXP55",
+      "origin_id": "LAX",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "LAXP7",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXP37",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXP58",
+      "origin_id": "LAX",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "LAXP4",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXP19",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXP34",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXP55",
+      "origin_id": "LAX",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "LAXP10",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP25",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP40",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP41",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP61",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP62",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "LAXP10",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP25",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP40",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP41",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP61",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP62",
+      "origin_id": "LAX",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "LAXP14",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXP29",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXP48",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXP49",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXP68",
+      "origin_id": "LAX",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "LAXP10",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP25",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP40",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP41",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP61",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP62",
+      "origin_id": "LAX",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "LAXP14",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXP29",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXP48",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXP49",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXP68",
+      "origin_id": "LAX",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "LAXP5",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXP20",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXP35",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXP56",
+      "origin_id": "LAX",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "LAXP12",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP27",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP46",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP47",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP65",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP66",
+      "origin_id": "LAX",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "LAXP13",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP28",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP44",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP45",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP67",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "LAXP15",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP30",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP50",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP51",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP69",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP70",
+      "origin_id": "LAX",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "LAXP6",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXP21",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXP36",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXP57",
+      "origin_id": "LAX",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "LAXP11",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP26",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP42",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP43",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP63",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP64",
+      "origin_id": "LAX",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "LAXP4",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXP19",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXP34",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXP55",
+      "origin_id": "LAX",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "LAXP4",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXP19",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXP34",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXP55",
+      "origin_id": "LAX",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "LAXP4",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXP19",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXP34",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXP55",
+      "origin_id": "LAX",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "LAXP2",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXP17",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXP32",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXP53",
+      "origin_id": "LAX",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "LAXP2",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXP17",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXP32",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "LAXP53",
+      "origin_id": "LAX",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP1",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP2",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "LGB",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "LGB",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP27",
+      "origin_id": "LGB",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "LGB",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "LGB",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP16",
+      "origin_id": "LGB",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP6",
+      "origin_id": "LGB",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTP14",
+      "origin_id": "LGB",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP7",
+      "origin_id": "LGB",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP8",
+      "origin_id": "LGB",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "LGB",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "LGB",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP27",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "LGB",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "LGB",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP27",
+      "origin_id": "LGB",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "LGB",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP18",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP35",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP40",
+      "origin_id": "LGB",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP20",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP37",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP41",
+      "origin_id": "LGB",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP26",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP21",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP22",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP23",
+      "origin_id": "LGB",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "LGB",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "LGB",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP9",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP10",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP11",
+      "origin_id": "LGB",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "LGB",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "LGB",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP1",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP2",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SLI",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SLI",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SLI",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "SLI",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SLI",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP16",
+      "origin_id": "SLI",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP6",
+      "origin_id": "SLI",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTP14",
+      "origin_id": "SLI",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP7",
+      "origin_id": "SLI",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP8",
+      "origin_id": "SLI",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "SLI",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "SLI",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SLI",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "SLI",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SLI",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SLI",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP18",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP35",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP40",
+      "origin_id": "SLI",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP20",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP37",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP41",
+      "origin_id": "SLI",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP21",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP22",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP23",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP28",
+      "origin_id": "SLI",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SLI",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "SLI",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP9",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP10",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP11",
+      "origin_id": "SLI",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "SLI",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "SLI",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP1",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP2",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SNA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SNA",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SNA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP30",
+      "origin_id": "SNA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SNA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SNA",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP16",
+      "origin_id": "SNA",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP6",
+      "origin_id": "SNA",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTP14",
+      "origin_id": "SNA",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP7",
+      "origin_id": "SNA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP8",
+      "origin_id": "SNA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SNA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP30",
+      "origin_id": "SNA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SNA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP30",
+      "origin_id": "SNA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SNA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "SNA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP30",
+      "origin_id": "SNA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "SNA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "SNA",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP32",
+      "origin_id": "SNA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP18",
+      "origin_id": "SNA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP33",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP20",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP21",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP22",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP23",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP28",
+      "origin_id": "SNA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "SNA",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "SNA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP31",
+      "origin_id": "SNA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP9",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP10",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP11",
+      "origin_id": "SNA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "SNA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "SNA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "CSTP1",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP2",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "TOA",
+      "destination_id": "BUR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "TOA",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "TOA",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "TOA",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "TOA",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "CSTP16",
+      "origin_id": "TOA",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "CSTP6",
+      "origin_id": "TOA",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "CSTP14",
+      "origin_id": "TOA",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "CSTP7",
+      "origin_id": "TOA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP8",
+      "origin_id": "TOA",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "TOA",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "TOA",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "TOA",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "CSTP17",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP34",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP38",
+      "origin_id": "TOA",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "CSTP24",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP25",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29B",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP29A",
+      "origin_id": "TOA",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "CSTP12",
+      "origin_id": "TOA",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "CSTP18",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP35",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP40",
+      "origin_id": "TOA",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP20",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP37",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP41",
+      "origin_id": "TOA",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "CSTP21",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP22",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP23",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP28",
+      "origin_id": "TOA",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "CSTP13",
+      "origin_id": "TOA",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "CSTP19",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP36",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP39",
+      "origin_id": "TOA",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "CSTP9",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP10",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP11",
+      "origin_id": "TOA",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "TOA",
+      "destination_id": "VNY"
+    },
+    {
+      "designator": "CSTP5",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP3",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "CSTP4",
+      "origin_id": "TOA",
+      "destination_id": "WHP"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP16",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP17",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP18",
+      "origin_id": "VNY",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP7",
+      "origin_id": "VNY",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "VNY",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "VNY",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP14",
+      "origin_id": "VNY",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP15",
+      "origin_id": "VNY",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "VNY",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP1",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP2",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP3",
+      "origin_id": "VNY",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP10",
+      "origin_id": "VNY",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP11",
+      "origin_id": "VNY",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP4",
+      "origin_id": "VNY",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP5",
+      "origin_id": "VNY",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP24",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP25",
+      "origin_id": "VNY",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "VNY",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "VNY",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "VNY",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "VNY",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "VNY",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP35",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP36",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP37",
+      "origin_id": "VNY",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP32",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP33",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP34",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP39",
+      "origin_id": "VNY",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "VNY",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "VNY",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "VNY",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "VNY",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP6",
+      "origin_id": "VNY",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP20",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP23",
+      "origin_id": "VNY",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "VNY",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "AJO"
+    },
+    {
+      "designator": "BURP16",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP17",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP18",
+      "origin_id": "WHP",
+      "destination_id": "AVX"
+    },
+    {
+      "designator": "BURP7",
+      "origin_id": "WHP",
+      "destination_id": "CCB"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "WHP",
+      "destination_id": "CMA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "CNO"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "WHP",
+      "destination_id": "CRQ"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "EMT"
+    },
+    {
+      "designator": "BURP14",
+      "origin_id": "WHP",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP15",
+      "origin_id": "WHP",
+      "destination_id": "F70"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "WHP",
+      "destination_id": "FUL"
+    },
+    {
+      "designator": "BURP1",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP2",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP3",
+      "origin_id": "WHP",
+      "destination_id": "HHR"
+    },
+    {
+      "designator": "BURP10",
+      "origin_id": "WHP",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP11",
+      "origin_id": "WHP",
+      "destination_id": "HMT"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "L65"
+    },
+    {
+      "designator": "BURP4",
+      "origin_id": "WHP",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP5",
+      "origin_id": "WHP",
+      "destination_id": "LAX"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP24",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP25",
+      "origin_id": "WHP",
+      "destination_id": "LGB"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "MYF"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "WHP",
+      "destination_id": "NFG"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "WHP",
+      "destination_id": "NKX"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "NRS"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "WHP",
+      "destination_id": "NTD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "NZY"
+    },
+    {
+      "designator": "BURP26",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP27",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP28",
+      "origin_id": "WHP",
+      "destination_id": "OKB"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "ONT"
+    },
+    {
+      "designator": "BURP38",
+      "origin_id": "WHP",
+      "destination_id": "OXR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "POC"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "RAL"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "REI"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "RIR"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "RIV"
+    },
+    {
+      "designator": "BURP35",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP36",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP37",
+      "origin_id": "WHP",
+      "destination_id": "RNM"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP32",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP33",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP34",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "SAN"
+    },
+    {
+      "designator": "BURP39",
+      "origin_id": "WHP",
+      "destination_id": "SBA"
+    },
+    {
+      "designator": "BURP8",
+      "origin_id": "WHP",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP9",
+      "origin_id": "WHP",
+      "destination_id": "SBD"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "SDM"
+    },
+    {
+      "designator": "BURP29",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30B",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP31",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP30A",
+      "origin_id": "WHP",
+      "destination_id": "SEE"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "WHP",
+      "destination_id": "SLI"
+    },
+    {
+      "designator": "BURP6",
+      "origin_id": "WHP",
+      "destination_id": "SMO"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP20",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP23",
+      "origin_id": "WHP",
+      "destination_id": "SNA"
+    },
+    {
+      "designator": "BURP22",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP19",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    },
+    {
+      "designator": "BURP21",
+      "origin_id": "WHP",
+      "destination_id": "TOA"
+    }
+  ],
+  "modified": []
+}

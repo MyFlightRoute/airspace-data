@@ -1,0 +1,63 @@
+{
+  "cycle": "2609",
+  "effective_date": "2026-09-03",
+  "opened": [
+    {
+      "airport_id": "19CN",
+      "airport_name": "STEWARTS POINT",
+      "city": "STEWARTS POINT",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    }
+  ],
+  "closed": [
+    {
+      "airport_id": "L04",
+      "airport_name": "HOLTVILLE",
+      "city": "HOLTVILLE",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "3CA9",
+      "airport_name": "CLARK RANCH",
+      "city": "SOLEDAD",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    }
+  ],
+  "renamed": [
+    {
+      "airport_id": "BUR",
+      "old_name": "BOB HOPE",
+      "new_name": "HOLLYWOOD BURBANK",
+      "city": "BURBANK",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "CA55",
+      "old_name": "MISSION HOSPITAL HELISTOP",
+      "new_name": "MISSION HOSPITAL",
+      "city": "MISSION VIEJO",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "SJC",
+      "old_name": "NORMAN Y MINETA SAN JOSE INTL",
+      "new_name": "MINETA SAN JOSE INTL",
+      "city": "SAN JOSE",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA"
+    },
+    {
+      "airport_id": "MT70",
+      "old_name": "BENEFIS HEALTHCARE",
+      "new_name": "BENEFIS HEALTH SYSTEM",
+      "city": "GREAT FALLS",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "cycle": "2610",
+  "effective_date": "2026-10-01",
+  "opened": [
+    {
+      "airport_id": "70CO",
+      "airport_name": "BONANZA AIRPARK",
+      "city": "VILLA GROVE",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "2ID9",
+      "airport_name": "BEAR LAKE NORTH BEACH EMERGENCY",
+      "city": "ST CHARLES",
+      "state_code": "ID",
+      "state_name": "IDAHO"
+    },
+    {
+      "airport_id": "33MT",
+      "airport_name": "EVARO HILLS ESTATES AIRPARK",
+      "city": "MISSOULA",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    },
+    {
+      "airport_id": "04NM",
+      "airport_name": "LCMC RUIDOSO",
+      "city": "RUIDOSO",
+      "state_code": "NM",
+      "state_name": "NEW MEXICO"
+    },
+    {
+      "airport_id": "UT77",
+      "airport_name": "EXCEPTIONAL COMMUNITY HOSPITAL",
+      "city": "HURRICANE",
+      "state_code": "UT",
+      "state_name": "UTAH"
+    }
+  ],
+  "closed": [
+    {
+      "airport_id": "CD23",
+      "airport_name": "AERO BEAR FLD",
+      "city": "CALHAN",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "2CO0",
+      "airport_name": "HELI-ONE AMERICAN SUPPORT",
+      "city": "FORT COLLINS",
+      "state_code": "CO",
+      "state_name": "COLORADO"
+    },
+    {
+      "airport_id": "21OG",
+      "airport_name": "AMES",
+      "city": "JEFFERSON",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    },
+    {
+      "airport_id": "88OR",
+      "airport_name": "TALLMAN",
+      "city": "LEBANON",
+      "state_code": "OR",
+      "state_name": "OREGON"
+    }
+  ],
+  "renamed": [
+    {
+      "airport_id": "4U9",
+      "old_name": "DELL FLIGHT STRIP",
+      "new_name": "HYAK AIRBASE",
+      "city": "DELL",
+      "state_code": "MT",
+      "state_name": "MONTANA"
+    }
+  ]
+}
